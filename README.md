@@ -7,3 +7,4 @@
 ## Resolucion:
   Para resolver la consigna se utilizaron tres metodos diferentes de recomendacion, tomando los tres criterios que fueron considerados de mayor peso. Los detalles a tener en cuenta sobre la implementacion y proceso para realizarla
   estan detallados en el informe.
+### Link al Colab: [Google Colab](https://colab.research.google.com/drive/1KKMD3_zAncN-wakGotDwrVRkBYB2gtGH?usp=sharing)
