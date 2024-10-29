@@ -1,5 +1,5 @@
 # Sistema de Recomendacion a profesores de matematica
-
+### Implementado en Python
 ## Consigna: 
   Crear un sistema de recomendacion utilizando sistemas basados en modelos o memoria, item-item o usuario-usuario. El mismo debe encargarse de recomendar a profesores de matematica, 
   diferentes problemas para dar en sus clases teniendo en cuenta el grado, edad de los alumnos, antiguedad dando la materia, especialidad, entre otros. 
